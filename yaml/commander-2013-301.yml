@@ -1,0 +1,115 @@
+---
+object: card
+id: 94d5eb61-4f38-42a0-92b2-1f25019bd436
+oracle_id: 03332772-18b0-446a-a7e2-a4bdf38c4f0c
+multiverse_ids:
+- 376388
+mtgo_id: 51040
+mtgo_foil_id: 51041
+tcgplayer_id: 72165
+cardmarket_id: 265028
+name: Kazandu Refuge
+lang: en
+released_at: '2013-11-01'
+uri: https://api.scryfall.com/cards/94d5eb61-4f38-42a0-92b2-1f25019bd436
+scryfall_uri: https://scryfall.com/card/c13/301/kazandu-refuge?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/4/94d5eb61-4f38-42a0-92b2-1f25019bd436.jpg?1562926485
+  normal: https://cards.scryfall.io/normal/front/9/4/94d5eb61-4f38-42a0-92b2-1f25019bd436.jpg?1562926485
+  large: https://cards.scryfall.io/large/front/9/4/94d5eb61-4f38-42a0-92b2-1f25019bd436.jpg?1562926485
+  png: https://cards.scryfall.io/png/front/9/4/94d5eb61-4f38-42a0-92b2-1f25019bd436.png?1562926485
+  art_crop: https://cards.scryfall.io/art_crop/front/9/4/94d5eb61-4f38-42a0-92b2-1f25019bd436.jpg?1562926485
+  border_crop: https://cards.scryfall.io/border_crop/front/9/4/94d5eb61-4f38-42a0-92b2-1f25019bd436.jpg?1562926485
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Kazandu Refuge enters the battlefield tapped.
+  When Kazandu Refuge enters the battlefield, you gain 1 life.
+  {T}: Add {R} or {G}.
+colors: []
+color_identity:
+- G
+- R
+keywords: []
+produced_mana:
+- G
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: c62e6d4f-af8c-4f27-9bc8-361291890146
+set: c13
+set_name: Commander 2013
+set_type: commander
+set_uri: https://api.scryfall.com/sets/c62e6d4f-af8c-4f27-9bc8-361291890146
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/94d5eb61-4f38-42a0-92b2-1f25019bd436/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A03332772-18b0-446a-a7e2-a4bdf38c4f0c&unique=prints
+collector_number: '301'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Franz Vohwinkel
+artist_ids:
+- 3a243c17-3baa-4b53-9599-645311cd7d3d
+illustration_id: c7e49dc5-e1c3-4805-b7b2-a72eff316a80
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3365
+penny_rank: 3148
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.09'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376388
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kazandu+Refuge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kazandu+Refuge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kazandu+Refuge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/72165?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kazandu+Refuge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/51040?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,118 @@
+---
+object: card
+id: 191bdf86-38dc-40c6-bf18-d95caf0c4a1f
+oracle_id: 3a2bb47d-228d-499e-a34b-9e10d99e9b2c
+multiverse_ids:
+- 376339
+mtgo_id: 51230
+mtgo_foil_id: 51231
+tcgplayer_id: 72121
+cardmarket_id: 264802
+name: Fog Bank
+lang: en
+released_at: '2013-11-01'
+uri: https://api.scryfall.com/cards/191bdf86-38dc-40c6-bf18-d95caf0c4a1f
+scryfall_uri: https://scryfall.com/card/c13/44/fog-bank?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/191bdf86-38dc-40c6-bf18-d95caf0c4a1f.jpg?1562900292
+  normal: https://cards.scryfall.io/normal/front/1/9/191bdf86-38dc-40c6-bf18-d95caf0c4a1f.jpg?1562900292
+  large: https://cards.scryfall.io/large/front/1/9/191bdf86-38dc-40c6-bf18-d95caf0c4a1f.jpg?1562900292
+  png: https://cards.scryfall.io/png/front/1/9/191bdf86-38dc-40c6-bf18-d95caf0c4a1f.png?1562900292
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/191bdf86-38dc-40c6-bf18-d95caf0c4a1f.jpg?1562900292
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/191bdf86-38dc-40c6-bf18-d95caf0c4a1f.jpg?1562900292
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Wall
+oracle_text: |-
+  Defender, flying
+  Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+power: '0'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: c62e6d4f-af8c-4f27-9bc8-361291890146
+set: c13
+set_name: Commander 2013
+set_type: commander
+set_uri: https://api.scryfall.com/sets/c62e6d4f-af8c-4f27-9bc8-361291890146
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/191bdf86-38dc-40c6-bf18-d95caf0c4a1f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3a2bb47d-228d-499e-a34b-9e10d99e9b2c&unique=prints
+collector_number: '44'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "The union of sea and sky makes a perfect cover."
+  —Talrand, sky summoner
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Howard Lyon
+artist_ids:
+- 6dd06426-59fe-4b9c-aad5-6da8446a5c3d
+illustration_id: 60c57737-0a00-432b-971b-642c7650721e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3042
+penny_rank: 6926
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376339
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fog+Bank&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fog+Bank&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fog+Bank
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/72121?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fog+Bank&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/51230?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

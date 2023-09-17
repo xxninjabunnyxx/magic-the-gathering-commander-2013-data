@@ -1,0 +1,128 @@
+---
+object: card
+id: 3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e
+oracle_id: 9ebc0144-fc45-4de7-b3d8-ef8cf2e211ae
+multiverse_ids:
+- 376496
+mtgo_id: 50938
+mtgo_foil_id: 50939
+tcgplayer_id: 72261
+cardmarket_id: 264812
+name: Sharding Sphinx
+lang: en
+released_at: '2013-11-01'
+uri: https://api.scryfall.com/cards/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e
+scryfall_uri: https://scryfall.com/card/c13/56/sharding-sphinx?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/b/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e.jpg?1562907427
+  normal: https://cards.scryfall.io/normal/front/3/b/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e.jpg?1562907427
+  large: https://cards.scryfall.io/large/front/3/b/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e.jpg?1562907427
+  png: https://cards.scryfall.io/png/front/3/b/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e.png?1562907427
+  art_crop: https://cards.scryfall.io/art_crop/front/3/b/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e.jpg?1562907427
+  border_crop: https://cards.scryfall.io/border_crop/front/3/b/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e.jpg?1562907427
+mana_cost: "{4}{U}{U}"
+cmc: 6.0
+type_line: Artifact Creature — Sphinx
+oracle_text: |-
+  Flying
+  Whenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter artifact creature token with flying.
+power: '4'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e
+  component: combo_piece
+  name: Sharding Sphinx
+  type_line: Artifact Creature — Sphinx
+  uri: https://api.scryfall.com/cards/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e
+- object: related_card
+  id: bc3b9e96-e29b-4fca-a9eb-0b89e6d80cae
+  component: token
+  name: Thopter
+  type_line: Token Artifact Creature — Thopter
+  uri: https://api.scryfall.com/cards/bc3b9e96-e29b-4fca-a9eb-0b89e6d80cae
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: c62e6d4f-af8c-4f27-9bc8-361291890146
+set: c13
+set_name: Commander 2013
+set_type: commander
+set_uri: https://api.scryfall.com/sets/c62e6d4f-af8c-4f27-9bc8-361291890146
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ebc0144-fc45-4de7-b3d8-ef8cf2e211ae&unique=prints
+collector_number: '56'
+digital: false
+rarity: rare
+flavor_text: Whether mechanical or biological, life finds a way to propagate itself.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Michael Bruinsma
+artist_ids:
+- e8f8a5b5-20bc-4aeb-a5ea-257b5c16a488
+illustration_id: 31d048eb-491d-4ed6-9198-a6195264181b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2649
+penny_rank: 7618
+prices:
+  usd: '0.21'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.24'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376496
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sharding+Sphinx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sharding+Sphinx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sharding+Sphinx
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/72261?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sharding+Sphinx&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50938?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,124 @@
+---
+object: card
+id: 48ad7c26-edb5-4354-9872-87c667183be7
+oracle_id: 8e356df5-ca92-4be2-871e-8965c2510fbe
+multiverse_ids:
+- 376546
+mtgo_id: 51368
+mtgo_foil_id: 51369
+tcgplayer_id: 71883
+cardmarket_id: 264747
+name: Tempt with Vengeance
+lang: en
+released_at: '2013-11-01'
+uri: https://api.scryfall.com/cards/48ad7c26-edb5-4354-9872-87c667183be7
+scryfall_uri: https://scryfall.com/card/c13/125/tempt-with-vengeance?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/8/48ad7c26-edb5-4354-9872-87c667183be7.jpg?1562910147
+  normal: https://cards.scryfall.io/normal/front/4/8/48ad7c26-edb5-4354-9872-87c667183be7.jpg?1562910147
+  large: https://cards.scryfall.io/large/front/4/8/48ad7c26-edb5-4354-9872-87c667183be7.jpg?1562910147
+  png: https://cards.scryfall.io/png/front/4/8/48ad7c26-edb5-4354-9872-87c667183be7.png?1562910147
+  art_crop: https://cards.scryfall.io/art_crop/front/4/8/48ad7c26-edb5-4354-9872-87c667183be7.jpg?1562910147
+  border_crop: https://cards.scryfall.io/border_crop/front/4/8/48ad7c26-edb5-4354-9872-87c667183be7.jpg?1562910147
+mana_cost: "{X}{R}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Tempting offer — Create X 1/1 red Elemental creature tokens with haste.
+  Each opponent may create X 1/1 red Elemental creature tokens with haste. For each
+  opponent who does, create X 1/1 red Elemental creature tokens with haste.
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Tempting offer
+all_parts:
+- object: related_card
+  id: 48ad7c26-edb5-4354-9872-87c667183be7
+  component: combo_piece
+  name: Tempt with Vengeance
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/48ad7c26-edb5-4354-9872-87c667183be7
+- object: related_card
+  id: a58a214f-1b12-4d2c-9cc0-f0c5f4a6e7a6
+  component: token
+  name: Elemental
+  type_line: Token Creature — Elemental
+  uri: https://api.scryfall.com/cards/a58a214f-1b12-4d2c-9cc0-f0c5f4a6e7a6
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c62e6d4f-af8c-4f27-9bc8-361291890146
+set: c13
+set_name: Commander 2013
+set_type: commander
+set_uri: https://api.scryfall.com/sets/c62e6d4f-af8c-4f27-9bc8-361291890146
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/48ad7c26-edb5-4354-9872-87c667183be7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e356df5-ca92-4be2-871e-8965c2510fbe&unique=prints
+collector_number: '125'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ryan Barger
+artist_ids:
+- a4e0102e-bbeb-497c-babc-1c0741fea914
+illustration_id: ed59e168-ba53-4995-9ef2-358d12c94924
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3960
+prices:
+  usd: '11.28'
+  usd_foil: 
+  usd_etched: 
+  eur: '3.51'
+  eur_foil: 
+  tix: '0.80'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376546
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tempt+with+Vengeance&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tempt+with+Vengeance&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tempt+with+Vengeance
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/71883?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tempt+with+Vengeance&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/51368?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

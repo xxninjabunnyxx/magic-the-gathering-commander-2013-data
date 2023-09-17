@@ -1,0 +1,114 @@
+---
+object: card
+id: 925d6ae9-deb8-41a4-99de-fd6fc6924d3b
+oracle_id: d45a4924-daa0-4ac3-afd7-b66f636ce870
+multiverse_ids:
+- 376370
+mtgo_id: 50850
+mtgo_foil_id: 50851
+tcgplayer_id: 72149
+cardmarket_id: 264856
+name: Incendiary Command
+lang: en
+released_at: '2013-11-01'
+uri: https://api.scryfall.com/cards/925d6ae9-deb8-41a4-99de-fd6fc6924d3b
+scryfall_uri: https://scryfall.com/card/c13/113/incendiary-command?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/2/925d6ae9-deb8-41a4-99de-fd6fc6924d3b.jpg?1562925920
+  normal: https://cards.scryfall.io/normal/front/9/2/925d6ae9-deb8-41a4-99de-fd6fc6924d3b.jpg?1562925920
+  large: https://cards.scryfall.io/large/front/9/2/925d6ae9-deb8-41a4-99de-fd6fc6924d3b.jpg?1562925920
+  png: https://cards.scryfall.io/png/front/9/2/925d6ae9-deb8-41a4-99de-fd6fc6924d3b.png?1562925920
+  art_crop: https://cards.scryfall.io/art_crop/front/9/2/925d6ae9-deb8-41a4-99de-fd6fc6924d3b.jpg?1562925920
+  border_crop: https://cards.scryfall.io/border_crop/front/9/2/925d6ae9-deb8-41a4-99de-fd6fc6924d3b.jpg?1562925920
+mana_cost: "{3}{R}{R}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: |-
+  Choose two —
+  • Incendiary Command deals 4 damage to target player or planeswalker.
+  • Incendiary Command deals 2 damage to each creature.
+  • Destroy target nonbasic land.
+  • Each player discards all the cards in their hand, then draws that many cards.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: c62e6d4f-af8c-4f27-9bc8-361291890146
+set: c13
+set_name: Commander 2013
+set_type: commander
+set_uri: https://api.scryfall.com/sets/c62e6d4f-af8c-4f27-9bc8-361291890146
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ac13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/c13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/925d6ae9-deb8-41a4-99de-fd6fc6924d3b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad45a4924-daa0-4ac3-afd7-b66f636ce870&unique=prints
+collector_number: '113'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: ffe30ed6-5341-4446-9f16-acef7e52e97e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4926
+penny_rank: 5128
+prices:
+  usd: '1.46'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.98'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376370
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Incendiary+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Incendiary+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Incendiary+Command
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/72149?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Incendiary+Command&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50850?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
